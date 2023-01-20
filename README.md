@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on anything that comes up 
-- 📫 Reach me on linkedin: **thanosbalogiannis**
+- 📫 Reach me on linkedin: [thanosbalogiannis](https://www.linkedin.com/in/thanos-balogiannis/)
+- 
 
 <!---
 thanosballo/thanosballo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
