@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanosballo
 - 👀 I’m a Junior Frontend Developer!
-- 🌱 I’m currently learning javaScript , finishing The Odin Project courses.
+- 🌱 I’m currently learning React1
 - 💞️ I’m looking to collaborate on anything that comes up from an awesome idea , to help with mockups and webpages .
 - 📫 Reach me on linkedin: [thanosbalogiannis](https://www.linkedin.com/in/thanos-balogiannis/) 
 
